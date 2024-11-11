@@ -116,5 +116,3 @@ To design and implement a ring oscillator using Cadence EDA tools, simulate its 
 The design and implementation of the ring oscillator using Cadence EDA tools were successfully completed. The simulated results demonstrated a stable oscillation waveform, confirming the proper functionality of the oscillator circuit. Key performance metrics, such as oscillation frequency and power consumption, were measured and analyzed, matching theoretical predictions.
 
 --- 
-
-This guide should assist in designing, simulating, and analyzing a ring oscillator using Cadence EDA tools! Let me know if you'd like more details on any specific aspect.
